@@ -67,7 +67,7 @@ The table below summarizes top commercial enterprise Global Trade Management (GT
 
 ## 💻 Open-Source GitHub Projects
 
-Below are top open-source projects, tools, parsers, and datasets for trade compliance, sanctions screening, and tariff classification, sorted by **GitHub Stars (Descending)**.
+Below are top open-source projects, tools, parsers, and datasets for trade compliance, sanctions screening, and tariff classification, sorted by **GitHub_Stars (Descending)**.
 
 | Project 🚀 | Stars ⭐ | Description 📝 | Primary Use Case 🔧 |
 | :--- | :---: | :--- | :--- |
